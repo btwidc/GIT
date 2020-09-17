@@ -1,2 +1,2 @@
-Kirill Kravchenko 
-SOIT-7
+# Kirill Kravchenko 
+# SOIT-7
